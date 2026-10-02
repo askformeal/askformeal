@@ -12,6 +12,8 @@ My greatest help: Monica. She keeps me functional. I keep her employed.
 
 Matrix account: `@edward1014:matrix.org`
 
+Fediverse: <a rel="me" href="https://mastodon.social/@edward1014">Mastodon</a>
+
 `Python` `Git` `Prayer`
 
 [![GitHub](https://img.shields.io/badge/-askformeal-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/askformeal) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
